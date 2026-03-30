@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nivds08/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/nivds08/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivds08/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/nivds08/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/nivds08/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivds08/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
