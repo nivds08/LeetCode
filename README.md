@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/nivds08/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivds08/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nivds08/LeetCode/tree/master/0189-rotate-array) |
 | [2460-apply-operations-to-an-array](https://github.com/nivds08/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@
 | [0075-sort-colors](https://github.com/nivds08/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivds08/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nivds08/LeetCode/tree/master/0189-rotate-array) |
 | [2460-apply-operations-to-an-array](https://github.com/nivds08/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nivds08/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/nivds08/LeetCode/tree/master/0189-rotate-array) |
 ## Memoization
 |  |
 | ------- |
