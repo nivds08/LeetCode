@@ -58,10 +58,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nivds08/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivds08/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/nivds08/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nivds08/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nivds08/LeetCode/tree/master/0189-rotate-array) |
 ## Memoization
