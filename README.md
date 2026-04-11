@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nivds08/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/nivds08/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nivds08/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivds08/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/nivds08/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nivds08/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
