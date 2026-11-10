@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nivds08/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/nivds08/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/nivds08/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nivds08/LeetCode/tree/master/0075-sort-colors) |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nivds08/LeetCode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nivds08/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
