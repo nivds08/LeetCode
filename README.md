@@ -27,6 +27,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nivds08/LeetCode/tree/master/0412-fizz-buzz) |
 | [2460-apply-operations-to-an-array](https://github.com/nivds08/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@
 | [0038-count-and-say](https://github.com/nivds08/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/nivds08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nivds08/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/nivds08/LeetCode/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0069-sqrtx](https://github.com/nivds08/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nivds08/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nivds08/LeetCode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/nivds08/LeetCode/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
