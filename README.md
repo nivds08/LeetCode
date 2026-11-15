@@ -49,6 +49,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nivds08/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/nivds08/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/nivds08/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/nivds08/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nivds08/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/nivds08/LeetCode/tree/master/0412-fizz-buzz) |
 ## String Matching
@@ -62,6 +63,7 @@
 | [0075-sort-colors](https://github.com/nivds08/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/nivds08/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nivds08/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +85,5 @@
 | ------- |
 | [0001-two-sum](https://github.com/nivds08/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nivds08/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nivds08/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
