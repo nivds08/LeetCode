@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivds08/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nivds08/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/nivds08/LeetCode/tree/master/0217-contains-duplicate) |
 | [2460-apply-operations-to-an-array](https://github.com/nivds08/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@
 | [0056-merge-intervals](https://github.com/nivds08/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nivds08/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/nivds08/LeetCode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +82,5 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nivds08/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/nivds08/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
