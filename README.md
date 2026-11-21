@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nivds08/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/nivds08/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/nivds08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nivds08/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nivds08/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nivds08/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nivds08/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/nivds08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nivds08/LeetCode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
@@ -86,4 +88,8 @@
 | [0001-two-sum](https://github.com/nivds08/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nivds08/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nivds08/LeetCode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nivds08/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
