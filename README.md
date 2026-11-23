@@ -25,6 +25,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nivds08/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nivds08/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/nivds08/LeetCode/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/nivds08/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/nivds08/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -54,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/nivds08/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nivds08/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/nivds08/LeetCode/tree/master/0412-fizz-buzz) |
+| [1768-merge-strings-alternately](https://github.com/nivds08/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
